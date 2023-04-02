@@ -27,46 +27,47 @@
   text-decoration: none;
 }
 .navigation_bar ul li a:hover {
-  background-color: green;
+ background-color: green;
 }
+
 img{
- width:350px;
- height:500px;
- max-width:100%
+  width:350px;
+  height:500px;
+  max-width:100%
 }
 .mandala{
- width: 500px;
- height:600px;
+  width: 500px;
+  height:600px;
 }
 .statement{
- position:relative;
- float:right;
- right:100px;
- top:100px;
- bottom:140px;
- width:85%;
- font-family: 'Inter', sans-serif;
- font-weight: bold;
- text-align:center;
+  position:relative;
+  float:right;
+  right:100px;
+  top:100px;
+  bottom:140px;
+  width:85%;
+  font-family: 'Inter', sans-serif;
+  font-weight: bold;
+  text-align:center;
 }
 #body{
- position:relative;
- top:300px;
- font-family: 'Inter', sans-serif;
+  position:relative;
+  top:300px;
+  font-family: 'Inter', sans-serif;
 }
 .About_me{
- font-family: 'Inter', sans-serif;
- font-weight: bold;
- text-align:center;
- margin: 0 auto;
- width: 700px;
+  font-family: 'Inter', sans-serif;
+  font-weight: bold;
+  text-align:center;
+  margin: 0 auto;
+  width: 700px;
 }
 .container {
   display: flex;
 }
 .image{
- display:block;
- width:40%;
+  display:block;
+  width:40%;
 }
 .text {
   padding-right:70px;
@@ -76,12 +77,11 @@ img{
   width:100%;
 }
 .my_art{
- font-family: 'Inter', sans-serif;
- font-size: 90%;
- margin:auto;
- width:100%;
- text-align:center;
- padding:20px;
+  font-family: 'Inter', sans-serif;
+  font-size: 90%;
+  margin:auto;
+  text-align:center;
+  padding:20px;
 }
 .mandala{
   display: block;
@@ -100,39 +100,39 @@ img{
 }
 
 .resume{
- font-family:'Inter', sans-serif;
- width: 950px;
- float: left;
- margin-left:22%;
- margin-right:10%;
- padding: 2px;
+  font-family:'Inter', sans-serif;
+  width: 950px;
+  float: left;
+  margin-left:22%;
+  margin-right:10%;
+  padding: 2px;
 }
 .name{
- text-align:center;
- color:green;
- font-size:50px;
+  text-align:center;
+  color:green;
+  font-size:50px;
 }
 .contact_details{
- text-align:center;
+  text-align:center;
 }
 .program{
- font-family: 'Inter', sans-serif;
- font-weight: bold;
- width:50%
+  font-family: 'Inter', sans-serif;
+  font-weight: bold;
+  width:50%
 }
 .year{
- float:right;
- margin-top:-75px;
+  float:right;
+  margin-top:-75px;
 }
 
 .para{
- font-size:24px;
- margin:auto;
- width:100%;
- text-align:center;
- padding:20px;
- border-style:dotted;
- border-color:green;
+  font-size:24px;
+  margin:auto;
+  width:100%;
+  text-align:center;
+  padding:20px;
+  border-style:dotted;
+  border-color:green;
 }
 video {
   width: 50%;
@@ -141,11 +141,11 @@ video {
   margin: 0 auto;
 }
 .paypal_image{
- display: block;
- margin-left: auto;
- margin-right: auto;
- width: 70%;
- height:100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  height:100%;
 }
 .portfolio02 {
   text-align: center
