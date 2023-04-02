@@ -1,0 +1,100 @@
+.navigation_bar {
+  background-color: #333333;
+  overflow: hidden;
+  float: right;
+  width: 100%;
+  position: relative;
+  line-height:45px;
+}
+.navigation_bar ul{ 
+  position: relative; 
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  left: 50%;
+  float: left;
+}  
+.navigation_bar ul li{
+  position: relative;	
+  float: left;
+  right: 50%;
+  display: block;
+}
+.navigation_bar ul li a {
+  display: block;
+  padding: 10px 20px;
+  color: #fff;
+  text-decoration: none;
+}
+.navigation_bar ul li a:hover {
+  background-color: green;
+}
+img{
+ width:350px;
+ height:500px;
+ max-width:100%
+}
+.mandala{
+ width: 500px;
+ height:600px;
+}
+.statement{
+ position:relative;
+ float:right;
+ right:100px;
+ top:100px;
+ bottom:140px;
+ width:85%;
+ font-family: 'Inter', sans-serif;
+ font-weight: bold;
+ text-align:center;
+}
+#body{
+ position:relative;
+ top:300px;
+ font-family: 'Inter', sans-serif;
+}
+.About_me{
+ font-family: 'Inter', sans-serif;
+ font-weight: bold;
+ text-align:center;
+ margin: 0 auto;
+ width: 700px;
+}
+.container {
+  display: flex;
+}
+.image{
+ display:block;
+ width:40%;
+}
+.text {
+  padding-right:70px;
+  font-family: 'Inter', sans-serif;
+  font-size: 90%;
+  margin:auto;
+  width:100%;
+}
+.my_art{
+ font-family: 'Inter', sans-serif;
+ font-size: 90%;
+ margin:auto;
+ width:100%;
+ text-align:center;
+ padding:20px;
+}
+.mandala{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+.footer{
+  background-color: #333333;
+  overflow: hidden;
+  float: right;
+  width: 100%;
+  position: relative;
+  top:20px;
+  line-height:45px;
+}
