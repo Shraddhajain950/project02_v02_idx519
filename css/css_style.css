@@ -1,10 +1,10 @@
 .navigation_bar {
   background-color: #333333;
   overflow: hidden;
-  float: right;
   width: 100%;
   position: relative;
   line-height:45px;
+  font-family: 'Inter', sans-serif;
 }
 .navigation_bar ul{ 
   position: relative; 
@@ -97,4 +97,57 @@ img{
   position: relative;
   top:20px;
   line-height:45px;
+}
+
+.resume{
+ font-family:'Inter', sans-serif;
+ width: 950px;
+ float: left;
+ margin-left:22%;
+ margin-right:10%;
+ padding: 2px;
+}
+.name{
+ text-align:center;
+ color:green;
+ font-size:50px;
+}
+.contact_details{
+ text-align:center;
+}
+.program{
+ font-family: 'Inter', sans-serif;
+ font-weight: bold;
+ width:50%
+}
+.year{
+ float:right;
+ padding-top:-20px;
+ margin-top:-75px;
+}
+
+.para{
+ font-size:24px;
+ margin:auto;
+ width:100%;
+ text-align:center;
+ padding:20px;
+ border-style:dotted;
+ border-color:green;
+}
+video {
+  width: 50%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+.paypal_image{
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 70%;
+ height:100%;
+}
+.portfolio02 {
+  text-align: center
 }
